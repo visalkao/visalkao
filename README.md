@@ -1,5 +1,6 @@
-## Hi there 👋
+## HELLO 👋
 
+I'm Visal, an AI enthusiast, data scientist, and machine learning Engineer.
 <!--
 **visalkao/visalkao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
