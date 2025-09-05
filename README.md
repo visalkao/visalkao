@@ -18,6 +18,8 @@
 ### 🚀 A Small Set of My Notable Projects : 
 - 📄 **IEEE Published Research**  
   [DOI: 10.1109/EUVIP61797.2024.10772924](https://doi.org/10.1109/EUVIP61797.2024.10772924)
+- 💬 **AI-Agents-based Universal Business Document Q&A Copilot (UBD)**  
+  Using OCR, paragraph segmentation, vector embeddings, and LLMs to provide accurate answers with precise references.
 - 🤖 **Intelligent Data Extraction Program (OCR)**  
   Automatically extracts handwritten data from scanned images.
 - 📧 **AI-Powered Email Routing System**  
